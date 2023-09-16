@@ -1,2 +1,2 @@
 # OASIS-INFOBYTE
-Internship-1 TASK 1
+Internship-1
